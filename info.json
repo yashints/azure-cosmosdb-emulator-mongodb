@@ -1,0 +1,37 @@
+[{
+  "age": 18,
+  "birth_place": "Harij, Gujarat, India",
+  "birth_sign": "Pisces",
+  "birth_year": "1996",
+  "birthday": "September 28",
+  "name": "Daxeel Soni",
+  "occupation": "Developer of this API. More: www.daxeelsoni.in",
+  "photo_url": "http://daxeelsoni.in/images/me.jpg"
+}, {
+  "age": 28,
+  "birth_place": "Houston",
+  "birth_sign": "Libra",
+  "birth_year": "1987",
+  "birthday": "September 28",
+  "name": "Hilary Duff",
+  "occupation": "TV Actress",
+  "photo_url": "http://www.famousbirthdays.com/thumbnails/duff-hilary-medium.jpg"
+}, {
+  "age": 38,
+  "birth_place": "Columbia",
+  "birth_sign": "Libra",
+  "birth_year": "1977",
+  "birthday": "September 28",
+  "name": "Young Jeezy",
+  "occupation": "Rapper",
+  "photo_url": "http://www.famousbirthdays.com/thumbnails/jeezy-young-medium.jpg"
+}, {
+  "age": 48,
+  "birth_place": "Roanoke",
+  "birth_sign": "Libra",
+  "birth_year": "1967",
+  "birthday": "September 28",
+  "name": "Challen Cates",
+  "occupation": "TV Actress",
+  "photo_url": "http://www.famousbirthdays.com/thumbnails/cates-challen-medium.jpg"
+}]
